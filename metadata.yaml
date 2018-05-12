@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '42776'
     url: http://www.gutenberg.org/2009/agents/42776
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44470#Trooper-3809A-Private-Soldier-of-the-Third-Republic
 gutenberg_issued: '2013-12-20'
 gutenberg_type: Text
 identifiers:
