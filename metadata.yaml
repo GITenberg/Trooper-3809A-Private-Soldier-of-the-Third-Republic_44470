@@ -1,0 +1,26 @@
+_repo: Trooper-3809A-Private-Soldier-of-the-Third-Republic_44470
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44470-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Decle, Lionel
+    birthdate: 1859
+    deathdate: 1907
+    gutenberg_agent_id: '42776'
+    url: http://www.gutenberg.org/2009/agents/42776
+description: ''
+gutenberg_issued: '2013-12-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44470'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France. Armée -- Military life'
+- !lcc 'U'
+title: 'Trooper 3809: A Private Soldier of the Third Republic'
+url: http://www.gutenberg.org/ebooks/44470
